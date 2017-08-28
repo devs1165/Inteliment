@@ -1,0 +1,135 @@
+.cub-login-main-container{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: -111;
+	top:0;
+	left: 0;
+	/*background-image: url('../../img/cubito-master/upload_art.svg');
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: 100% 100%;*/
+}
+
+.cub-login-form-main-container{
+	z-index: 999999;
+	margin-top: 10%;
+	margin-left: calc(50% - 200px);
+	width: 400px;
+	height: 365px;
+	background: #FFFFFF;
+	box-shadow: 0 0 45px 0 rgba(255,255,255,0.22);
+	border-radius: 5px;
+}
+
+.cub-login-form-main-wrapper{
+	padding-top: 25px;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%; 
+}
+
+.cub-login-logo-container{
+	height: 50px;
+	width: 100%;
+	background-image:url('../../img/cubito-master/upload_art.svg'); 
+	background-repeat: none;
+	background-position:center center;
+	background-size: 100% 100%;
+}
+
+.cub-login-user-name-password-container{
+	padding-top: 20px;
+}
+
+.cub-login-user-name-container{
+	width: 100%;
+	height: 50px;
+	border: 1px solid #D7D7D7;
+}
+
+.cub-login-password-container{
+	margin-top: 15px;
+	width: 100%;
+	height: 50px;
+	border: 1px solid #D7D7D7;
+}
+
+.cub-login-user-name-password-input{
+	height: 100%;
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+	border:none;
+	font-family: roboto_regular;
+	font-size: 12px;
+	color: #9E9E9E;
+	letter-spacing: 0;
+}
+.cub-login-user-name-password-input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px white inset !important;
+	-webkit-text-fill-color: #9E9E9E !important;
+}
+.cub-login-user-name-password-input:focus{
+	border:none;
+	outline-style: none;
+}
+
+.cub-login-rememberme-button-container{
+	display: table;
+	width: 100%;
+	margin-top: 10px;
+	border-bottom: 1px solid #D7D7D7;
+}
+
+.cub-login-button-container{
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.cub-login-button{
+	width: 100%;
+	height: 30px;
+	border:1px solid #7BB179;
+	background: #7BB179;
+	border-radius: 2px;
+	font-family: roboto_bold;
+	font-size: 12px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	cursor: pointer;
+}
+
+.cub-login-button:hover{
+	background: #7BB179;
+	box-shadow: 0 2px 0 0 #659263;
+	border-radius: 2px;
+}
+
+.cub-login-button:focus{
+	outline: none;
+}
+
+.cub-login-message-error-container{
+	height: 20px;
+	width: 100%;
+	margin-top: 15px;
+	line-height: 20px;
+	text-align: center;
+	opacity: 0.7;
+	font-family: roboto_regular;
+	font-size: 10px;
+	color: #D32F2F;
+	letter-spacing: 0;
+}
+.cub-login-footer-container{
+	text-align: center;
+	margin-top: 15px;
+	line-height: 50px;
+	font-family: roboto_regular;
+	opacity: 0.7;
+	font-size: 10px;
+	color: #858585;
+	letter-spacing: 0;
+}

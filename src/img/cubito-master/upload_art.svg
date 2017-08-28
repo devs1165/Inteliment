@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="125px" viewBox="0 0 370 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F9FCFF" offset="0%"></stop>
+            <stop stop-color="#D1EAFF" offset="98.6647003%"></stop>
+        </linearGradient>
+        <path d="M248.611373,65.5181326 C250.150929,65.5181326 251.445557,64.167943 251.448472,62.4721517 L251.448472,62.4428634 C251.448472,39.741519 234.69413,21.3396938 214.029665,21.3396938 C211.198397,21.3396938 208.448772,21.6970108 205.795369,22.3501394 C200.785978,13.6837378 191.991844,7.91687586 181.955568,7.91687586 C169.639115,7.91687586 159.191706,16.589135 155.322404,28.6646921 C152.231627,27.9617735 148.951322,27.8358339 145.566047,28.4274571 C135.465622,30.1993979 127.123441,38.4586924 124.236773,49.2367788 C122.942145,54.0693447 122.877997,58.7144656 123.656523,63.0315578 C123.918947,64.4842564 125.099857,65.5181326 126.446969,65.5181326 L248.611373,65.5181326 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Page-1" transform="translate(1.000000, 20.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.185493)">
+                    <path d="M0.75,50.25 L367.980173,50.25" id="Path-2" stroke="#77A5CE" stroke-width="0.5" stroke-dasharray="3,3"></path>
+                    <rect id="Rectangle-6" fill="#FFFFFF" x="103" y="41" width="163" height="19"></rect>
+                    <g id="Fill-1">
+                        <use fill="#ECECEC" xlink:href="#path-2"></use>
+                        <use stroke="#AFCCE7" stroke-width="1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <ellipse id="Oval-2" fill="#77A5CE" opacity="0.349014946" cx="249.388302" cy="5.96859615" rx="5.17407524" ry="5.19714495"></ellipse>
+                    <ellipse id="Oval-2" fill="#77A5CE" opacity="0.180253623" cx="149.388302" cy="17.9685962" rx="5.17407524" ry="5.19714495"></ellipse>
+                    <ellipse id="Oval-2" fill="#D7D7D7" cx="117.449383" cy="29.3557484" rx="2.58703762" ry="2.59857247"></ellipse>
+                    <ellipse id="Oval-2" fill="#77A5CE" opacity="0.675724638" cx="272.671641" cy="29.3557484" rx="2.58703762" ry="2.59857247"></ellipse>
+                    <ellipse id="Oval-2" fill="#77A5CE" opacity="0.675724638" cx="220.930888" cy="11.1657411" rx="2.58703762" ry="2.59857247"></ellipse>
+                </g>
+                <path d="M170.700966,52.9283938 L179.538286,52.9283938 L179.538286,83.7032876 C179.538286,85.3637754 180.878372,86.709836 182.531489,86.709836 L186.893234,86.709836 C188.546351,86.709836 189.886437,85.3637754 189.886437,83.7032876 L189.886437,52.9283938 L198.723757,52.9283938 C200.234587,52.9283938 200.992589,51.0912031 199.924143,50.0179926 L187.837503,37.877462 C186.111949,36.1442142 183.312774,36.1442142 181.58722,37.877462 L169.50058,50.0179926 C168.432134,51.0912031 169.190136,52.9283938 170.700966,52.9283938" id="Fill-4" stroke="#DFF0FF" stroke-width="2" fill="#A4C1DC"></path>
+            </g>
+        </g>
+    </g>
+</svg>
